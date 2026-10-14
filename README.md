@@ -8,6 +8,7 @@ My Java programs and practice problems while learning Java.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/mahinkousar91-create/java-programs/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/mahinkousar91-create/java-programs/tree/main/0035-search-insert-position/) | Easy |
+| [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1929-concatenation-of-array](https://github.com/mahinkousar91-create/java-programs/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -34,4 +35,8 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/mahinkousar91-create/java-programs/tree/main/0035-search-insert-position/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
