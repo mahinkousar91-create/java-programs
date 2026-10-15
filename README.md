@@ -11,6 +11,7 @@ My Java programs and practice problems while learning Java.
 | [0035-search-insert-position](https://github.com/mahinkousar91-create/java-programs/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mahinkousar91-create/java-programs/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -41,4 +42,8 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
