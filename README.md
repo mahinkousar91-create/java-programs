@@ -9,6 +9,7 @@ My Java programs and practice problems while learning Java.
 | [0001-two-sum](https://github.com/mahinkousar91-create/java-programs/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mahinkousar91-create/java-programs/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/mahinkousar91-create/java-programs/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/mahinkousar91-create/java-programs/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/mahinkousar91-create/java-programs/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -66,4 +67,8 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/mahinkousar91-create/java-programs/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
