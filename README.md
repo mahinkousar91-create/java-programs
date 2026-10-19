@@ -14,6 +14,7 @@ My Java programs and practice problems while learning Java.
 | [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/mahinkousar91-create/java-programs/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mahinkousar91-create/java-programs/tree/main/1929-concatenation-of-array/) | Easy |
@@ -35,21 +36,25 @@ My Java programs and practice problems while learning Java.
 | [0001-two-sum](https://github.com/mahinkousar91-create/java-programs/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/mahinkousar91-create/java-programs/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mahinkousar91-create/java-programs/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/mahinkousar91-create/java-programs/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/mahinkousar91-create/java-programs/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +79,7 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/mahinkousar91-create/java-programs/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
