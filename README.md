@@ -18,6 +18,7 @@ My Java programs and practice problems while learning Java.
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mahinkousar91-create/java-programs/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ My Java programs and practice problems while learning Java.
 | [0169-majority-element](https://github.com/mahinkousar91-create/java-programs/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@ My Java programs and practice problems while learning Java.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/mahinkousar91-create/java-programs/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
