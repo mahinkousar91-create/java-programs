@@ -17,6 +17,7 @@ My Java programs and practice problems while learning Java.
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0414-third-maximum-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mahinkousar91-create/java-programs/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
@@ -49,6 +50,7 @@ My Java programs and practice problems while learning Java.
 | [0088-merge-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/mahinkousar91-create/java-programs/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
