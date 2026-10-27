@@ -94,6 +94,7 @@ My Java programs and practice problems while learning Java.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/mahinkousar91-create/java-programs/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
