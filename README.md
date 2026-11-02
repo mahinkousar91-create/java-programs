@@ -22,6 +22,7 @@ My Java programs and practice problems while learning Java.
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mahinkousar91-create/java-programs/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
+| [0724-find-pivot-index](https://github.com/mahinkousar91-create/java-programs/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mahinkousar91-create/java-programs/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/mahinkousar91-create/java-programs/tree/main/1929-concatenation-of-array/) | Easy |
@@ -126,4 +127,5 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mahinkousar91-create/java-programs/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/mahinkousar91-create/java-programs/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
