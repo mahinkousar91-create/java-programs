@@ -17,6 +17,7 @@ My Java programs and practice problems while learning Java.
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mahinkousar91-create/java-programs/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mahinkousar91-create/java-programs/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -117,4 +118,12 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mahinkousar91-create/java-programs/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mahinkousar91-create/java-programs/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
