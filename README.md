@@ -21,6 +21,7 @@ My Java programs and practice problems while learning Java.
 | [0414-third-maximum-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/mahinkousar91-create/java-programs/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/mahinkousar91-create/java-programs/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/mahinkousar91-create/java-programs/tree/main/0605-can-place-flowers/) | Easy |
 | [0724-find-pivot-index](https://github.com/mahinkousar91-create/java-programs/tree/main/0724-find-pivot-index/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/mahinkousar91-create/java-programs/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -46,6 +47,7 @@ My Java programs and practice problems while learning Java.
 | [0219-contains-duplicate-ii](https://github.com/mahinkousar91-create/java-programs/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/mahinkousar91-create/java-programs/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mahinkousar91-create/java-programs/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/mahinkousar91-create/java-programs/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,5 +129,6 @@ My Java programs and practice problems while learning Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mahinkousar91-create/java-programs/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/mahinkousar91-create/java-programs/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/mahinkousar91-create/java-programs/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
